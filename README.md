@@ -34,4 +34,4 @@ Bugs
 •   The volume slider still has a problem and it does not work properly
 
 Author
-Mikko Ylönen
+By Mikko Ylönen
