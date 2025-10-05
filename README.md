@@ -33,8 +33,8 @@ Project Structure
 Bugs
 •   The volume slider still has a problem and it does not work properly
 
-![Example Pic1](images/Doggo1.jpg)
-![Example Pic2](images/Doggo2.jpg)
+![Example1](Doggo1.jpg)
+![Example2](Doggo2.jpg)
 
 Author
 Mikko Ylönen
