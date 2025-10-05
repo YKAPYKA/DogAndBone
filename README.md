@@ -37,4 +37,4 @@ Bugs
 ![Example2](Doggo2.jpg)
 
 Author
-Created by Mikko Ylönen
+Mikko Ylönen
