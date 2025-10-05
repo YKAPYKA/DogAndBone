@@ -34,6 +34,7 @@ Bugs
 •   The volume slider still has a problem and it does not work properly
 
 ![Example1](Doggo1.jpg)
+
 ![Example2](Doggo2.jpg)
 
 Author
